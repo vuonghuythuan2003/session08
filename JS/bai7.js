@@ -12,4 +12,5 @@ var area = width * height;
 
 console.log('Chu vi hình chữ nhật là ' + perimeter);
 console.log('Diện tích hình chữ nhật là ' + area);
-
+document.write('Chu vi hình chữ nhật là :' +perimeter);
+document.write('Diện tích hình chữ nhật là ' +area);
